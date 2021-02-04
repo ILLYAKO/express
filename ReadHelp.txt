@@ -37,6 +37,22 @@ getbootstrap.com
 Docs -> Component
 Navbar
 
+45:52
+routes/servers.js
+
+49:09
+controllers/servers.js
+
+51:27
+vuejs.org (v3.x documentation)
+Docs-Guide-Installation-CDN
+
+40:02
+getbootstrap.com
+Get Started
+Spinner
+
+
 
 
 
