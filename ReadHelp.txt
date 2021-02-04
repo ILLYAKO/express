@@ -1,0 +1,42 @@
+Express JS Быстрый Курс https://youtu.be/9EtkpCzqZu0
+
+3:34
+npm init -y
+
+3:59
+index.js
+
+4:16
+npm install express
+
+5:08 
+update node.js from website
+
+10:28 type in gitbash
+export PORT=4200 && node index
+
+11:44
+npm install -D @types/express
+
+14:49 
+npm install -D nodemon
+
+29:31
+npm install colors
+
+32:13
+npm install ejs
+
+39:01
+getbootstrap.com
+Docs -> Download
+CDN vis jsDelivr
+
+40:02
+getbootstrap.com
+Docs -> Component
+Navbar
+
+
+
+
